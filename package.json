@@ -1,0 +1,12 @@
+{
+  "name": "siu-otp-api",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Vercel serverless for OTP (SIU Studio)",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "firebase-admin": "^12.6.0"
+  }
+}
